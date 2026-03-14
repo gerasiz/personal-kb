@@ -20,5 +20,3 @@ A structured personal knowledge base stored as Markdown files.
 - Entities and research topics are always folders containing multiple documents.
 - YAML front-matter for metadata when useful.
 
-
-TEST
