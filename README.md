@@ -19,3 +19,6 @@ A structured personal knowledge base stored as Markdown files.
 - One concept per file; many small files over few large ones.
 - Entities and research topics are always folders containing multiple documents.
 - YAML front-matter for metadata when useful.
+
+
+TEST
