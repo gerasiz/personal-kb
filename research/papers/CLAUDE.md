@@ -69,9 +69,10 @@ A 3–5 sentence summary of what the paper does, why it matters, and the main re
 
 Describe the core method, architecture, or technique introduced by the paper.
 
-## Results
+## Evidence / Results (high level)
 
-Highlight the main quantitative or qualitative results.
+Brief statement of whether the approach works and in what setting.
+Do not enumerate metrics or benchmark tables — just the takeaway.
 
 ## Insights & Takeaways
 
@@ -111,6 +112,12 @@ explanation and a pointer to learn more.
 
 Alternatively, if the list is short (fewer than 5 items), you may include it as
 an **Appendix** section at the end of `overview.md` instead of a separate file.
+
+## Analysis focus
+
+- **Central ideas & novel contributions first.** Prioritize what the paper introduces that is new and why it matters.
+- **Practical utility.** Highlight what a practitioner can take away and apply.
+- **Skip metric deep-dives.** Do not describe evaluation metrics, benchmarks, or numeric results in detail unless the user explicitly asks. A high-level statement of evidence (e.g., "outperforms prior work on X" or "scales to Y") is sufficient.
 
 ## Tips
 
